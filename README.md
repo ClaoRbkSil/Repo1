@@ -1,2 +1,3 @@
 # Repo1
-First Repository
+
+Hi there, I am trying to learn Github!!!!
